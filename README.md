@@ -2,7 +2,8 @@ Added libraries
 
 1) React router
 2) react slick and carousal
-3) tesseract.js
+3) tesseract.js library
+https://www.npmjs.com/package/tesseract.js
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
