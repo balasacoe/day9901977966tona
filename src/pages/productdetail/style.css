@@ -1,0 +1,84 @@
+.homeLink {
+    padding: 10px 0;
+}
+.details {
+    text-decoration: underline;
+    border-bottom: solid 2px #808080;
+    margin: 20px 0;
+    line-height: 0.9;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.infocontainer {
+    padding: 2px;
+    border: solid 1px #808080;
+    font-family: sans-serif;
+    margin: 2%;
+}
+.imgContent {
+    display: flex;
+    justify-content: center;
+    /* border: solid 1px #808080; */
+    align-items: center;
+    padding: 10px 0;
+}
+
+.imgContent img {
+    width: 300px;
+    height: 300px;
+}
+
+.title {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.subTitle {
+    padding: 5px 0 20px;
+}
+
+.subTitle span {
+    font-weight: bold;
+}
+
+.descTitle {
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.desc {
+    line-height: 1.5;
+}
+
+.buttonSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0 30px;
+}
+
+.submitBtn {
+    background: #ff8080;
+    padding: 5px 30px;
+    color: #ffffff;
+    font-size: 15px;
+    border-radius: 15px;
+    font-weight: bold;
+    cursor: pointer
+    
+}
+
+.scannedcontainer {
+    border: solid 1px #808080;
+    font-family: sans-serif;
+    margin: 2%;
+}
+
+.scannedTxt {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 0;
+}
+

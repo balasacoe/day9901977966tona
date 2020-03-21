@@ -1,0 +1,44 @@
+.slickImages {
+    text-decoration: underline;
+    border-bottom: solid 2px #808080;
+    margin: 20px 0;
+    line-height: 0.9;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.slickSection button.slick-arrow.slick-prev {
+    left: 0;
+    background-color: gray;
+}
+
+.slickSection button.slick-arrow.slick-next {
+    right: 0;
+    background-color: gray;
+}
+
+.slickSection .slick-list {
+    margin: 0 30px;
+    margin-top: 10%;
+}
+
+.slickSection .slick-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slickSection .slickItem img {
+    width: 180px;
+    height: 180px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.slickSection .slick-dots li {
+    margin: 0;
+}
+
+.slickSection .slick-dots li button:before {
+    font-size: 30px;
+}
